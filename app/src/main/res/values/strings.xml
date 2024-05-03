@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!-- Main Activity Layout -->
+    <string name="header_title">Forecast Weather</string>
+    <string name="fill_city_field">Type your city</string>
+    <string name="search_button">Search</string>
+
+    <!-- Search City Activity Layout -->
+    <string name="weather_forecast_days_message">8 Day Forecast</string>
+    <string name="wind_icon_text">Wind</string>
+    <string name="humidity_icon_text">Humidity</string>
+    <string name="feels_like_icon_text">Feels Like</string>
+    <string name="uv_index_icon_text">UV Index</string>
+    <string name="sunrise_icon_text">Sunrise</string>
+    <string name="sunset_icon_text">Sunset</string>
+    <string name="precipitation_icon_text">Precipitation</string>
+    <string name="visibility_icon_text">Visibility</string>
+</resources>

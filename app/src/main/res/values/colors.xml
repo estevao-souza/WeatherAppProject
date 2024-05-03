@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- My Custom Colors -->
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">#fff</color>
+
+    <color name="primary">@color/backgroundEnd</color>
+
+    <color name="backgroundStart">#6AA2DC</color>
+    <color name="backgroundEnd">#3676B6</color>
+    <color name="backgroundBox">#1AFFFFFF</color>
+
+    <color name="navigationMenu">@color/white</color>
+    <color name="textBox">#4DFFFFFF</color>
+    <color name="button">#4DFFFFFF</color>
+
+    <color name="progressBarMain">#4DFFFFFF</color>
+    <color name="progressBarVariable">@color/navigationMenu</color>
+</resources>
