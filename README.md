@@ -1,4 +1,4 @@
-### Weather App
+## Weather App
 ![Design sem nome (1)](https://github.com/estevao-souza/WeatherAppProject/assets/62207482/d2dbf70c-7ef7-4f85-b372-f52dd377aacb)
 
 ### About this project
@@ -22,3 +22,4 @@ The application does not use geolocation and it is not possible to save both the
 
 ### Getting Started
 To run this application in development mode, you'll need to create an account on OpenWeatherMap and obtain an API Key. Once you obtain this key, you simply need to paste it into the project's "API_KEY" constant.
+
